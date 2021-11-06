@@ -4,7 +4,7 @@ import { acceptableText, failedText, checkText } from "../../constants";
 
 const $api = axios.create({
     withCredentials: false,
-    baseURL: 'http://localhost:5000',
+    baseURL: 'https://lit-dusk-57360.herokuapp.com/',
 
 })
 
