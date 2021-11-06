@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cuberto-client/static/css/main.9352c661.chunk.css",
-    "main.js": "/cuberto-client/static/js/main.01e28444.chunk.js",
-    "main.js.map": "/cuberto-client/static/js/main.01e28444.chunk.js.map",
+    "main.js": "/cuberto-client/static/js/main.3b1bfd1d.chunk.js",
+    "main.js.map": "/cuberto-client/static/js/main.3b1bfd1d.chunk.js.map",
     "runtime-main.js": "/cuberto-client/static/js/runtime-main.eb8cda10.js",
     "runtime-main.js.map": "/cuberto-client/static/js/runtime-main.eb8cda10.js.map",
     "static/js/2.4774899b.chunk.js": "/cuberto-client/static/js/2.4774899b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eb8cda10.js",
     "static/js/2.4774899b.chunk.js",
     "static/css/main.9352c661.chunk.css",
-    "static/js/main.01e28444.chunk.js"
+    "static/js/main.3b1bfd1d.chunk.js"
   ]
 }
